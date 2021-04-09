@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: linear-imputation
-Version: 1.0.0
+Version: 1.0.1
 Summary: Fill-in missing values using data mean and correlation
 Home-page: https://github.com/thinknum/linear-data-imputation
 Author: Thinknum
